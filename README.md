@@ -1,1 +1,1 @@
-este proyecto es una prueba de copia de repositorio en github
+este proyecto es una prueba de copia de repositorio
