@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modulo 2
+este readme es una prueba para crear un repositorio y clonarlo desde github a mi computador.
